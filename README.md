@@ -1,6 +1,6 @@
 # 🎬 Korean Drama RAG QA System
 
-한국 드라마 데이터를 기반으로 RAG(Retrieval-Augmented Generation)와 일반 LLM의 답변 성능을 비교하는 QA 시스템
+한국 드라마 데이터를 기반으로 RAG와 일반 LLM의 답변 성능을 비교하는 QA 시스템
 
 ## 🛠 Tech Stack
 - **Model**: Google Flan-T5-base
